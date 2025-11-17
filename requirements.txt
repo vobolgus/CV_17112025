@@ -1,0 +1,13 @@
+torch
+torchvision
+transformers
+ultralytics
+opencv-python
+numpy
+pillow
+matplotlib
+timm
+# Optional for SAM (requires manual checkpoint download)
+# segment-anything
+# Optional for SAM2 (requires manual installation)
+# git+https://github.com/facebookresearch/segment-anything-2.git
