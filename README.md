@@ -1,4 +1,4 @@
-# Computer Vision Homework (17.11.2025)
+# Computer Vision assignment (17.11.2025)
 
 **Author:** Svyatoslav Suglobov
 
